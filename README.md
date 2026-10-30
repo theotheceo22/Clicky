@@ -1,0 +1,2 @@
+# Clicky
+MacOS autoclicker
